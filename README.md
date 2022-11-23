@@ -8,13 +8,19 @@
   
 <!--   ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellow) -->
 
-  <a align="center"> <img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellow" /> </a>
+  <div align="center"> <img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VuePress-yellow" /> </div>
   
-  ![:huabingtao](https://count.getloli.com/get/@:huabingtao?theme=gelbooru-h)
+ <div align="center">
+
+   ![:huabingtao](https://count.getloli.com/get/@:huabingtao?theme=gelbooru-h)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huabingtao)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Metrics](https://metrics.lecoq.io/huabingtao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huabingtao)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+</div>
+  
+
   
 </p>
 
