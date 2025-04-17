@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm huabingtao</h1>
   <div align="center"> <img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VuePress-yellow" /> </div>
-  <h3 align="center">A passionate frontend developer from India</h3>
+  <h3 align="center">A passionate frontend developer from China</h3>
   <h3 align="center">Connect with me: 1273621932@qq.com</h3>
   <h3 align="center">Languages and Tools:</h3>  
   
